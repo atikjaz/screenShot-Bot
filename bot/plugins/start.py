@@ -20,11 +20,11 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Source 😜', url='https://github.com/sahadz/screenShot-Bot'),
-                    InlineKeyboardButton('Project Channel', url='https://t.me/Super_Botz')
+                    InlineKeyboardButton('INDIAN MOVIES', url='https://t.me/joinchat/SXbgEaLVd1g-6OrW'),
+                    InlineKeyboardButton('HOLLYWOOD MOVIES', url='https://t.me/joinchat/sunUGVHabzA3MjVl')
                 ],
                 [
-                    InlineKeyboardButton('My Boss', url='https://t.me/Ankith_m')
+                    InlineKeyboardButton('OUR GROUP', url='https://t.me/joinchat/U-uFekBLLLXsEijR')
                 ]
             ]
         )
